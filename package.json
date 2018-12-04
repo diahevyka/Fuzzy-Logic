@@ -1,0 +1,19 @@
+{
+  "name": "jawaban",
+  "version": "1.0.0",
+  "description": "tugas AI 2 Fuzzy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diah Hevyka M",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "csv-parser": "^2.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "json2csv": "^4.2.1",
+    "papaparse": "^4.6.1"
+  }
+}
